@@ -74,7 +74,7 @@ python contacts_manager.py
 
 ```
 Data Structures Used
-
+```
 contacts = {
     "John Doe": {
         "phone": "9876543210",
@@ -84,7 +84,7 @@ contacts = {
         "updated_at": "2026-01-20"
     }
 }
-
+```
 Sample Menu
 
 1. Add New Contact
