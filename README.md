@@ -111,6 +111,7 @@ Enter group: Friends
 ✅ Contact 'John Doe' added successfully!
 
 Challenges & Solutions
+
 Challenge: Handling duplicate contact names
 
 Solution: Added option to view all matches and select which to update
