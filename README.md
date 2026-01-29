@@ -102,7 +102,11 @@ Enter group: Friends
 
 --- ADD NEW CONTACT ---
 Enter contact name: John Doe
+
 Enter phone number: +91 98765 43210
+
 Enter email: john@gmail.com
+
 Enter group: Friends
+
 ✅ Contact 'John Doe' added successfully!
