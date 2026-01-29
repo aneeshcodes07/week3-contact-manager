@@ -96,6 +96,7 @@ Sample Menu
 7. View Statistics
 8. Exit
 
+Sample Output
 
 --- ADD NEW CONTACT ---
 
