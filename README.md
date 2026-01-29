@@ -47,11 +47,17 @@ The project also supports **data persistence using JSON files** and provides a *
 
 ## 📂 Project Structure
 week3-contact-manager/
+
 │── contacts_manager.py
+
 │── contacts_data.json
+
 │── contacts_export.csv
+
 │── README.md
+
 │── test_contacts.py
+
 │── requirements.txt
 
 
