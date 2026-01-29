@@ -109,3 +109,20 @@ Enter email: john@gmail.com
 Enter group: Friends
 
 ✅ Contact 'John Doe' added successfully!
+
+Challenges & Solutions
+Challenge: Handling duplicate contact names
+
+Solution: Added option to view all matches and select which to update
+
+Challenge: Phone number validation across different formats
+
+Solution: Created flexible validation function supporting multiple formats
+
+Challenge: Efficient search with partial matching
+
+Solution: Used dictionary comprehension with lower() for case-insensitive search
+
+Challenge: Data persistence with JSON
+
+Solution: Used json module with proper error handling for file operations
